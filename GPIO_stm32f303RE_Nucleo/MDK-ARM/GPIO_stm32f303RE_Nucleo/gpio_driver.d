@@ -1,0 +1,10 @@
+gpio_stm32f303re_nucleo\gpio_driver.o: gpio_driver.c
+gpio_stm32f303re_nucleo\gpio_driver.o: gpio_driver.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Include/core_cm4.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Include/cmsis_version.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Include/cmsis_compiler.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Include/cmsis_armcc.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Include/mpu_armv7.h
+gpio_stm32f303re_nucleo\gpio_driver.o: C:/Users/abdal/STM32Cube/Repository/STM32Cube_FW_F3_V1.11.3/Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h
